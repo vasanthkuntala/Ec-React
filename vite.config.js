@@ -6,6 +6,6 @@ export default defineConfig({
   preview: {
     host: '0.0.0.0',
     port: 4173,  // You can change this if needed
-    allowedHosts: ['https://ec-react-cm0u.onrender.com'],  // Add your Render domain
+    allowedHosts: ['https://ec-react-2bfq.onrender.com'],  // Add your Render domain
   }
 });
